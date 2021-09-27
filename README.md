@@ -1,10 +1,11 @@
-  <h1 align='center'> ReadMe Generator 🎁</h1>
+<h1 align='center'> ReadMe Generator 🎁</h1>
   
-  <p align='center'>
+<p align='center'>
   <img src='https://img.shields.io/github/languages/top/calvinjdonner/github-readme-generator' />
   <img src='https://img.shields.io/github/repo-size/calvinjdonner/github-readme-generator' />
+</p>
 
-  <p align='center'>
+<p align='center'>
     <img src='https://img.shields.io/badge/-node.js-red' />
     <img src='https://img.shields.io/badge/-inquirer-green' >
     <img src='https://img.shields.io/badge/-screencastify-orange' />
@@ -25,6 +26,9 @@
 
   ## Contributing
  🧑‍🤝‍🧑 Calvin Donner
+ 
+  ## GitHub
+ :octocat: [Calvin Donner](https://github.com/calvinjdonner)
 
   ## Questions
   ❓ 📧 Please email me with any questions at: calvinjdonner@gmail.com<br />
