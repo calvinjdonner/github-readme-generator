@@ -14,6 +14,8 @@
   ## Description
   🗺️ An application built using node.js designed to accept user input and create a ReadMe file for a given user repository.
 
+  📽️ A screencastify recording of the application in action can be found [here](./images/Link%20to%20screencast%20file.txt)
+
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -26,7 +28,7 @@
 
   ## Contributing
  🧑‍🤝‍🧑 Calvin Donner
- 
+
   ## GitHub
  :octocat: [Calvin Donner](https://github.com/calvinjdonner)
 
