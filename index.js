@@ -34,12 +34,11 @@ function promptUser() {
             message: 'Choose the appropriate license for this project: ',
             choices: [
                 'Apache',
-                'Academic',
+                'Boost',
                 'GNU',
-                'ISC',
+                'IBM',
                 'MIT',
-                'Mozilla',
-                'Open'
+                'Mozilla'
             ]
         },
         {
